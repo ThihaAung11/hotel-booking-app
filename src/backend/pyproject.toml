@@ -6,7 +6,8 @@ authors = ["thiha-onow <thihaaung@onow.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.8"
+flask = "^3.0.3"
 
 
 [build-system]
